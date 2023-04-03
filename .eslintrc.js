@@ -3,7 +3,7 @@ module.exports = {
   root: true,
   env: {
     "browser": true,
-  "es2021": true,
+    "es2021": true,
     "node": true
   },
   // ESLint 中基础配置需要继承的配置

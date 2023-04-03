@@ -1,4 +1,4 @@
-import {createRouter, createWebHistory, RouteRecordRaw} from 'vue-router';
+import {createRouter, createWebHistory} from 'vue-router';
 import Home from '@/pages/home.vue';
 import Other from '@/pages/other.vue';
 
